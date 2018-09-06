@@ -1,0 +1,99 @@
+body {
+    font-family: 'Berkshire Swash';
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper { 
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+}
+
+.readme-wrapper {
+    color: rgb(94, 6, 129);
+}
+
+.boxes {
+    display: block;
+    margin: 3 em;
+    padding: 3 em;
+    border: solid;
+    border-radius: 1em;
+    width: 20%;
+}
+
+a:hover {
+    font: bold;
+    color: green;
+    cursor: pointer;
+}
+
+span {
+    color: rgb(4, 80, 80);
+    font-weight: bold;
+}
+
+#box1 {
+    background-color: bisque;
+}
+
+#box2 {
+    background-color: burlywood;
+   
+}
+
+#box3 {
+    background-color: chocolate;
+}
+
+#box4 {
+    background-color: brown;
+}
+
+.image {
+    width: 2em;
+    height: 2em;
+    background-color: cadetblue;
+    display: inline-block;
+}
+
+h1 {
+    color: yellow;
+}
+
+top {
+    color: aquamarine;
+}
+
+extras {
+    color: pink;
+}
+
+#show1 h1 {
+    color: red;
+}
+
+#show2 h1 {
+    color: blue;
+}
+
+#show3 h1 {
+    color: blueviolet;
+}
+
+#show4 h1 {
+    color: green;
+}
+
+#show5 h1 {
+    color: orange;
+}
+
+.lists {
+    border: 2px solid black;
+    color: purple;
+    background-color: goldenrod;
+    display: inline-block;
+}
